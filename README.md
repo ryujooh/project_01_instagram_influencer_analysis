@@ -20,12 +20,14 @@
 project_01_instagram_influencer_analysis/
 ├── README.md                           # Project documentation
 ├── notebooks/
-│   └── instagram_influencer_preprocessing_eda.ipynb  # Data cleaning & EDA
+│   ├── instagram_influencer_preprocessing_eda.ipynb  # Data cleaning & EDA
+│   └── instagram_influencer_premium_analysis.ipynb   # Premium data storytelling [NEW]
 ├── data/
 │   └── processed/
 │       └── insta_influencers_tableau_ready.csv     # Cleaned data for BI tools
 ├── dashboard/
-│   └── tableau_public_link.md          # Link to interactive dashboard
+│   ├── tableau_public_link.md          # Link to interactive dashboard
+│   └── tableau_design_guide.md         # Professional design guide [NEW]
 └── assets/
     └── dashboard_thumbnail.png         # Project cover image
 ```
