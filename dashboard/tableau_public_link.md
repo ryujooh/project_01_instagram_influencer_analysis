@@ -1,6 +1,6 @@
 # Tableau Public Dashboard Link
 
-[View Dashboard on Tableau Public](https://public.tableau.com/)
+[View Dashboard on Tableau Public](https://public.tableau.com/views/_17781236667990/sheet11?:language=ko-KR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-> [!NOTE]
-> Please update the link above with your actual Tableau Public URL.
+---
+*Last updated: 2026-05-08*

@@ -4,8 +4,6 @@
 >
 > *Beyond follower counts: A data-driven approach to measuring true social media influence.*
 
-#![Dashboard Thumbnail](./assets/dashboard_thumbnail.png)
-
 ## 📌 Project Overview
 본 프로젝트는 글로벌 톱 200 인스타그램 인플루언서 데이터를 분석하여, 단순한 팔로워 규모를 넘어 **'진정한 영향력(Impact)'**을 정의하는 지표들을 탐색합니다. 데이터 전처리부터 탐색적 데이터 분석(EDA), 그리고 최종 시각화 대시보드 구축까지의 전 과정을 포함합니다.
 
@@ -46,7 +44,7 @@ project_01_instagram_influencer_analysis/
 - **Documentation**: Markdown
 
 ## 🔗 Dashboard Link
-[**Tableau Public 대시보드 바로가기**](./dashboard/tableau_public_link.md)
+[**Tableau Public 대시보드 바로가기**](https://public.tableau.com/views/_17781236667990/sheet11?:language=ko-KR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 *Created by [Your Name / GitHub ID]*
